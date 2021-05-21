@@ -1,0 +1,634 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
+
+<head>
+ <!--[if gte mso 9]><xml>
+      <o:OfficeDocumentSettings>
+        <o:AllowPNG/>
+        <o:PixelsPerInch>96</o:PixelsPerInch>
+      </o:OfficeDocumentSettings>
+    </xml><![endif]-->
+ <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+ <title>Your Vivino 2020 in Review
+ 
+ {% if not contact.global_scans_2020_review %}
+ {{skip_action()}}
+ {% else %} 
+ {% endif %}
+ 
+ </title>
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+
+ <style type="text/css">
+  /* Graphik Medium */
+  @font-face {
+   font-family: 'Graphik';
+   font-style: normal;
+   font-weight: 300;
+   src: url(https://vivino.com/fonts/Graphik-Medium-Cy-Web.woff2) format('woff2');
+  }
+
+  /* Graphik Regular */
+  @font-face {
+   font-family: 'Graphik';
+   font-style: normal;
+   font-weight: 400;
+   src: url(https://vivino.com/fonts/Graphik-Regular-Cy-Web.woff2) format('woff2');
+
+  }
+
+  /* Graphik Semibold */
+  @font-face {
+   font-family: 'Graphik';
+   font-style: normal;
+   font-weight: 500;
+   src: url(https://vivino.com/fonts/Graphik-Semibold-Cy-Web.woff2) format('woff2');
+  }
+
+  * {font-family:'Graphik', Helvetica, Arial, sans-serif !important;}
+ p {margin:0;padding:0;}
+ img {max-width:100%;color:#1E1E1E;}
+ body {-webkit-text-size-adjust:none;-ms-text-size-adjust:none;}
+ table {margin:0 auto !important;-webkit-font-smoothing:antialiased;}
+ .wine {color:#F8F6F2 !important;text-decoration:none !important;}
+ .noBG {background:none !important;}
+ .borderT {border-top:1px solid #CCCCCC;}
+ .wine span {font-size:19px !important;text-decoration:underline !important;}
+ .link:hover {text-decoration:none !important;}
+ .cta:hover {background-color:#19CA92 !important;-moz-border-radius:24px !important;-webkit-border-radius:24px !important;border-radius:24px !important;color:#FAFAFA !important;}
+ .content-img:hover {opacity:0.6 !important;}
+ .ReadMsgBody {width:100%;}
+ .ExternalClass {width:100%;}
+ .ExternalClass * {line-height:100%;}
+ .appleLink, .appleLink a {color:#575757 !important;text-decoration:none;}
+ .padB50 {padding-bottom:50px;}
+ .padB30 {padding-bottom:30px;}
+ .padB10 {padding-bottom:10px;}
+ .padT70 {padding-top:70px;}
+ .padT30 {padding-top:30px;}
+ .padT10 {padding-top:10px;}
+ [owa] .padL10 {padding-left:10px;}
+ [owa] .padB40 {padding-bottom:40px;}
+ [owa] .padB30 {padding-bottom:30px;}
+ [owa] .padT30 {padding-top:30px !important;}
+ [owa] .padT25 {padding-top:25px !important;}
+ [owa] .borderB {border-bottom:1px solid #CCCCCC;}
+ [owa] .borderT {border-top:1px solid #CCCCCC;}
+ @media only screen and (max-width:600px) {* {font-family:'Graphik', Helvetica, Arial, sans-serif !important;}
+ .h1 {font-size:24px !important;line-height:30px !important;padding:30px 40px 30px !important;}
+ .h2 {padding:30px 20px 15px !important;}
+ .fn {float:none !important;}
+ .fr {float:right !important;}
+ .fl {float:left !important;}
+ .wr {display:block !important;}
+ .desktop {display:none !important;mso-hide:all !important;}
+ .mobilecontent {display:block !important;max-height:none !important;}
+ .mobileDisplay {display:block !important;max-height:none !important;overflow:visible !important;}
+ .center {text-align:center !important;}
+ .centerOnMobile {text-align:center !important;margin:0 auto !important;}
+ .left {text-align:left !important;}
+ .autow {width:auto !important;}
+ .w100pct {width:100% !important;}
+ .w90pct {width:90% !important;}
+ .w85pct {width:85% !important;}
+ .w65pct {width:65% !important;}
+ .w50pct {width:50% !important;}
+ .w45pct {width:45% !important;}
+ .w320 {width:320px !important;}
+ .w300 {width:300px !important;}
+ .w280 {width:280px !important;}
+ .w260 {width:260px !important;}
+ .w200 {width:200px !important;}
+ .w120 {width:120px !important;}
+ .w100 {width:100px !important;}
+ .w6 {width:6px !important;}
+ .autoh {height:auto !important;}
+ .h280 {height:280px !important;}
+ .padR30 {padding-right:30px !important;}
+ .padR20 {padding-right:20px !important;}
+ .padR10 {padding-right:10px !important;}
+ .padR0 {padding-right:0px !important;}
+ .padL30 {padding-left:30px !important;}
+ .padL20 {padding-left:20px !important;}
+ .padL10 {padding-left:10px !important;}
+ .padL0 {padding-left:0px !important;}
+ .padT60 {padding-top:60px !important;}
+ .padT50 {padding-top:50px !important;}
+ .padT40 {padding-top:40px !important;}
+ .padT35 {padding-top:35px !important;}
+ .padT30 {padding-top:30px !important;}
+ .padT25 {padding-top:25px !important;}
+ .padT20 {padding-top:20px !important;}
+ .padT15 {padding-top:15px !important;}
+ .padT10 {padding-top:10px !important;}
+ .padT5 {padding-top:5px !important;}
+ .padT0 {padding-top:0px !important;}
+ .padB70 {padding-bottom:70px !important;}
+ .padB50 {padding-bottom:50px !important;}
+ .padB40 {padding-bottom:40px !important;}
+ .padB30 {padding-bottom:30px !important;}
+ .padB20 {padding-bottom:20px !important;}
+ .padB15 {padding-bottom:15px !important;}
+ .padB10 {padding-bottom:10px !important;}
+ .padB7 {padding-bottom:7px !important;}
+ .padB5 {padding-bottom:5px !important;}
+ .padB0 {padding-bottom:0px !important;}
+ .fs36 {font-size:36px !important;line-height:40px !important;}
+ .fs34 {font-size:34px !important;line-height:38px !important;}
+ .fs32 {font-size:32px !important;line-height:36px !important;}
+ .fs30 {font-size:30px !important;line-height:34px !important;}
+ .fs28 {font-size:28px !important;line-height:32px !important;}
+ .f27 {font-size:27px !important;line-height:31px !important;}
+ .fs26 {font-size:26px !important;line-height:30px !important;}
+ .fs24 {font-size:24px !important;line-height:28px !important;}
+ .fs23 {font-size:23px !important;line-height:27px !important;}
+ .fs22 {font-size:22px !important;line-height:26px !important;}
+ .fs20 {font-size:20px !important;line-height:24px !important;}
+ .fs19 {font-size:19px !important;line-height:23px !important;}
+ .fs17 {font-size:17px !important;line-height:21px !important;}
+ .fs16 {font-size:16px !important;line-height:20px !important;}
+ .fs15 {font-size:15px !important;line-height:19px !important;}
+ .fs14 {font-size:14px !important;line-height:18px !important;}
+ .fs13 {font-size:13px !important;line-height:17px !important;}
+ .bg {background-size:100% 150% !important;background-position:center !important }
+ .noBG {background:none !important;background-image:none !important }
+ .wine {width:auto !important;height:350px !important;}
+ .headerText {vertical-align:middle !important;font-size:38px !important;line-height:42px !important;}
+ .lh30 {line-height:30px !important;}
+ .lh34 {line-height:34px !important;}
+ .link a {display:block;height:inherit;}
+ .cta td {font-size:18px !important;line-height:22px !important;color:#F8F6F2 !important;}
+ .maxW450 {max-width:450px !important;}
+ .borderT {border-top:1px solid #CCCCCC;}
+ .featured {background-color:#F8F6F2;padding:20px 0 40px !important;}
+ .valignTop {vertical-align:top !important;}
+ .automargin {margin:0 auto !important;float:none !important;}
+ .titleHeader {font-size:44px !important;line-height:48px !important;}
+ .sectionText {font-size:18px !important;line-height:22px !important;}
+ .featured-mobile a {display:block;height:inherit;color:#F8F6F2 !important;}
+ }
+
+ </style>
+
+ <!--[if mso]>
+    <style type=”text/css”>
+     .fallback-font { font-family: Helvetica, Arial, sans-serif !important; }
+     table { font-family: Helvetica, Arial, sans-serif !important; }
+     td { font-family: Helvetica, Arial, sans-serif !important; }
+     p { font-family: Helvetica, Arial, sans-serif !important; }
+     a { font-family: Helvetica, Arial, sans-serif !important; }
+     span { font-family: Helvetica, Arial, sans-serif !important; }
+    </style>
+    <![endif]-->
+</head>
+
+<body bgcolor="#FAFAFA" style="margin: 0; padding: 0;background-color: #FAFAFA;">
+ <table width="100%" border="0" cellspacing="0" cellpadding="0">
+
+  <tr>
+   <td align="center"
+    style="font-family: 'Graphik', Helvetica, Arial, sans-serif !important; font-size:15px;letter-spacing:0.4px;">
+
+
+    <!-- PREHEADER -->
+    <table class="module preheader preheader-hide" role="module" data-type="preheader" border="0" cellpadding="0"
+     cellspacing="0" width="100%"
+     style="display: none !important; mso-hide: all; visibility: hidden; opacity: 0; color: transparent; height: 0; width: 0;">
+     <tr>
+      <td role="module-content">
+       <p>Highlights from your year on Vivino</p>
+      </td>
+     </tr>
+    </table>
+    <!--END OF PREHEADER -->
+
+    <!-- Insert &zwnj;&nbsp; hack after hidden preview text -->
+    <div style="display: none; max-height: 0px; overflow: hidden;">
+     &nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;
+    </div>
+
+    <table bgcolor="#FAFAFA" style="min-width:320px; width:720px;" class="w100pct" width="720" border="0"
+     cellspacing="0" cellpadding="0">
+
+     <!-- HEADER -->
+     <tr>
+      <td bgcolor="#FAFAFA" style="background-size:contain; padding:10px 0px 15px 0px; margin:0px auto;" align="center"
+       valign="middle">
+       <table style="width:640px;" class="w100pct" width="640" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+         <td>
+          <table class="w100pct" style="width:440px;" width="440" border="0" align="left" cellpadding="0"
+           cellspacing="0">
+           <tr>
+            <td class="fallback-font padL30 padR30 center" align="left"
+             style="font-family: 'Graphik', Helvetica, Arial, sans-serif !important; font-size:12px; color:#1E1E1E; font-weight:200; line-height:17px; -webkit-text-size-adjust:none; padding:0px 0px 5px 0px;">
+             Vivino News
+            </td>
+           </tr>
+           <tr>
+            <td class="fallback-font padL20 padR20 center" align="left"
+             style="font-family: 'Graphik', Helvetica, Arial, sans-serif !important; font-size:12px; color:#1E1E1E; font-weight:200; line-height:17px; -webkit-text-size-adjust:none; padding:0px 0px 0px 0px;">
+             Highlights from your month on Vivino
+            </td>
+           </tr>
+          </table>
+          <!--[if (gte mso 9)|(IE)]> </td><td valign="top"> <![endif]-->
+          <table style="width:200px;" class="w100pct" width="200" border="0" align="right" cellpadding="0"
+           cellspacing="0">
+           <tr>
+            <td class="padT20 center" align="right"><a href="https://www.vivino.com"><img
+               src="https://images.vivino.com/emails/simon/logos/vivino_logo_red.png" alt="Vivino" height="35"
+               width="100" class="automargin" style="display:block; border:none; text-align:center; color:#1E1E1E;"></a>
+            </td>
+           </tr>
+          </table>
+         </td>
+        </tr>
+       </table>
+      </td>
+     </tr>
+     <!-- END OF HEADER -->
+  <!--  SCAN, LEARN, SIP SECTION-->
+           <tr>
+            <td align="center" style="padding-bottom: 30px;" class="padB0">
+             <table bgcolor="#FCE9ED" style="max-width:640px; margin:0px auto; width: 640px;" class="w100pct"
+              width="640" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+               <td align="center" valign="bottom">
+                <table width="310" style="width: 310px;" border="0" cellpadding="0" cellspacing="0" class="w100pct">
+                 <tr>
+                  <td align="left" valign="middle" class="autoh padB40 padL30 padR30 padT25"
+                   style="padding-left: 45px; padding-top: 35px;">
+                   <table width="240" style="width: 240px;" class="w100pct" border="0" cellpadding="0" cellspacing="0">
+                    <tr>
+                     <td align="left" class="msTitle fs24"
+                      style="font-family: 'Graphik', Helvetica, Arial, sans-serif !important;font-size:28px;color:#1e1e1e;line-height:32px;font-weight:900; padding: 0px 0px 10px 0px;">
+                    Catena Zapata,
+                    <br>
+                    here's your month
+                    <br>
+                    on Vivino in review
+                     </td>
+                    </tr>
+                    <tr>
+                     <td align="left" class="fs16"
+                      style="font-family: 'Graphik', Helvetica, Arial, sans-serif !important;font-size:16px;color:#1e1e1e;line-height:20px;font-weight:300; padding: 0px 0px 10px 0px;">
+                  Log on to your winery dashboard to download the full monthly report for February.
+                      
+                     </td>
+                    </tr>
+           <tr>
+                  <td align="left" width="240" style="padding: 10px 20px 20px 20px;" >
+                   <!--[if mso]>
+                    <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="#" style="height:50px;v-text-anchor:middle;width:240px;" arcsize="50%" stroke="f" fillcolor="#02A78B">
+                    <w:anchorlock/>
+                    <center>
+                   <![endif]-->
+                   <a class="fallback-font cta" href="#"
+                    style="background-color:#02A78B;border-radius:24px;color:#FAFAFA;display:inline-block;font-family: 'Graphik', Helvetica, Arial, sans-serif !important; font-size:18px;padding:10px 10px;text-align:center;text-decoration:none; font-weight: 500; width:240px;-webkit-text-size-adjust:none;font-family: 'Graphik', Helvetica, Arial, sans-serif !important; letter-spacing: 0.4px; padding-bottom: 10px;">Your winery dashboard</a>
+                   <!--[if mso]>
+                    </center>
+                    </v:roundrect>
+                   <![endif]-->
+                  </td>
+                 </tr>
+                    <tr>
+                     <td align="left" style="padding-bottom: 20px;" class="padB0">
+                     </td>
+                    </tr>
+                          <tr>
+
+  
+                   </table>
+                  </td>
+                 </tr>
+                 
+                 
+                </table>
+               </td>
+
+
+
+               <td align="center" valign="middle" class="desktop">
+                <table width="330" style="width: 330px;" border="0" cellpadding="0" cellspacing="0" class="w100pct">
+                 <tr>
+                  <td align="center" class="padL20" valign="bottom">
+                   <img
+                     width="330" style="width: 330px; border: 0;" class="w100pct content-img"
+                     src="https://scalerodesigns.s3.amazonaws.com/email_assets/269/FH6D137Z35BWAOD80UJHQPMJ1N9XW3E1JM3780IK3ZBB5UJ8EW4EMHERSBAGMEOA.png"
+                     alt="Scan with the Vivino app">
+                  </td>
+                 </tr>
+                </table>
+               </td>
+              </tr>
+             </table>
+            </td>
+           </tr>
+
+
+
+           <!--[if !mso]><!-->
+            <tr>
+             <td class="padB40">
+              <table bgcolor="#FCE9ED" style="max-width:640px; margin:0px auto; width: 640px;" class="w100pct"
+               width="640" border="0" cellspacing="0" cellpadding="0">
+               <tr>
+                <td align="center" class="padL20">
+                 <div class="mobilecontent" style="display:none;max-height:0px;overflow:hidden;">
+                 <a universal="true" href="https://www.vivino.com/" target="_blank" style="display: block; font-size: 0px;"><img
+                   width="330" style="width: 330px; border: 0;" class="w100pct"
+                   src="https://scalerodesigns.s3.amazonaws.com/email_assets/269/FH6D137Z35BWAOD80UJHQPMJ1N9XW3E1JM3780IK3ZBB5UJ8EW4EMHERSBAGMEOA.png"
+                   alt="Vivino App"></a>
+                  </div>
+                </td>
+               </tr>
+              </table>
+             </td>
+            </tr>
+           <!--<![endif]-->
+            <!-- SCAN, LEARN, SIP SECTION-->
+     <!-- BODY -->
+     <tr>
+      <td align="center" class="center">
+       <table width="100%" border="0" cellspacing="0" cellpadding="0">
+
+       
+        <!--SECTION 2-->
+        <tr>
+         <td align="center">
+          <table width="640" style="width: 640px;" cellpadding="0" cellspacing="0" border="0" align="center"
+           class="w100pct">
+     <tr>
+                     <td align="left" class="msTitle fs24"
+                      style="font-family: 'Graphik', Helvetica, Arial, sans-serif !important;font-size:28px;color:#1e1e1e;line-height:32px;font-weight:900; padding: 0px 0px 10px 0px;">
+                   Here are some quick stats:
+                     </td>
+                    </tr>
+           <!-- row 1-->
+           <tr>
+            <td class="w100pct" align="center" style="padding-bottom: 30px;">
+             <table align="left" width="320" style="width: 320px;" border="0" cellpadding="0" cellspacing="0"
+              class="w100pct">
+              <tr>
+               <td align="center" class="padL20 padR20" style="padding-bottom: 30px;">
+                <table align="left" width="300" style="width: 300px;" border="0" cellpadding="0" cellspacing="0"
+                 class="w100pct">
+                 <tr>
+                  <td align="center">
+                   <a universal="false" clicktracking="off" target="_blank"><img width="300" height="298"
+                     style="width: 300px; height: 298px; border: 0; display: block;" class="content-img"
+                     src="https://images.scalero.io/email_assets/759/FLMYKRHR8H17WMF6DE16QNOBA0WVUZ7PX4SIQL4XEYGZEEZ3JE32SV7IW1N4QSFH.png"
+                     alt="Image"></a>
+                  </td>
+                 </tr>
+                 <tr>
+                  <td align="center"
+                   style="font-family: 'Graphik', Helvetica, Arial, sans-serif !important; font-size:16px; line-height:20px; color: #000000; font-weight:400;padding-bottom: 7px;">
+                   Total Catena Zapata ratings
+                  </td>
+                 </tr>
+                 <tr>
+                  <td align="center"
+                   style="font-family: 'Graphik', Helvetica, Arial, sans-serif !important; font-size:48px; line-height:56px; color: #000000; font-weight:500;">
+                  2,720
+                  </td>
+                 </tr>
+                </table>
+               </td>
+              </tr>
+             </table>
+
+             <!--[if (gte mso 9)|(IE)]></td><td valign='top' style="padding-bottom: 30px;"><![endif]-->
+
+             <table align="left" width="320" style="width: 320px;" border="0" cellpadding="0" cellspacing="0"
+              class="w100pct">
+              <tr>
+               <td align="center" class="padL20 padR20" style="padding-bottom: 30px;">
+                <table align="left" width="300" style="width: 300px;" border="0" cellpadding="0" cellspacing="0"
+                 class="w100pct">
+                 <tr>
+                  <td align="center">
+                   <a universal="false" clicktracking="off" target="_blank"><img width="300" height="298"
+                     style="width: 300px; height: 298px; border: 0; display: block;" class="content-img"
+                     src="https://images.scalero.io/email_assets/759/CWOEYZ3C93FLXSNBWMSEEMSWS9JMG25ZYQ2MA6N2BHY24EBOXCDN86Q52NJZHYSQ.png"
+                     alt="Image"></a>
+                  </td>
+                 </tr>
+                 <tr>
+                  <td align="center"
+                   style="font-family: 'Graphik', Helvetica, Arial, sans-serif !important; font-size:16px; line-height:20px; color: #1E1E1E; font-weight:400;padding-bottom: 7px;">
+                   Total Catena Zapata scans
+                  </td>
+                 </tr>
+                 <tr>
+                  <td align="center"
+                   style="font-family: 'Graphik', Helvetica, Arial, sans-serif !important; font-size:48px; line-height:56px; color: #1E1E1E; font-weight:500;">
+                   13,088
+                  </td>
+                 </tr>
+                </table>
+               </td>
+              </tr>
+             </table>
+            </td>
+           </tr>
+           <!-- end of row 1-->
+
+           <!-- row 2-->
+           <tr>
+            <td class="w100pct" align="center" style="padding-bottom: 30px;">
+             <table align="left" width="320" style="width: 320px;" border="0" cellpadding="0" cellspacing="0"
+              class="w100pct">
+              <tr>
+               <td align="center" class="padL20 padR20 padB50" style="padding-bottom: 30px;">
+                <table align="left" width="300" style="width: 300px;" border="0" cellpadding="0" cellspacing="0"
+                 class="w100pct">
+                 <tr>
+                  <td align="center">
+                   <a universal="false" clicktracking="off" target="_blank"><img width="300" height="298"
+                     style="width: 300px; height: 298px; border: 0; display: block;" class="content-img"
+                     src="https://images.scalero.io/email_assets/759/ERUQ93SWF57KABCLM9YS63BPQ8ZWERSCND2NTU6ZFEQXI3K252OVFFRYXB9HH6U6.png"
+                     alt="Image"></a>
+                  </td>
+                 </tr>
+                 <tr>
+                  <td align="center"
+                   style="font-family: 'Graphik', Helvetica, Arial, sans-serif !important; font-size:16px; line-height:20px; color: #1E1E1E; font-weight:400;padding-bottom: 7px;">
+                   <br>Total "Meet the Winery" views
+                  </td>
+                 </tr>
+                 <tr>
+                  <td align="center"
+                   style="font-family: 'Graphik', Helvetica, Arial, sans-serif !important; font-size:48px; line-height:56px; color: #1E1E1E; font-weight:500; padding-bottom: 10px;">
+                105
+                  </td>
+                 </tr>
+              
+                </table>
+               </td>
+              </tr>
+             </table>
+
+             <!--[if (gte mso 9)|(IE)]></td><td valign='top' style="padding-bottom: 30px;"><![endif]-->
+
+             <table align="left" width="320" style="width: 320px;" border="0" cellpadding="0" cellspacing="0"
+              class="w100pct">
+              <tr>
+               <td align="center" class="padL20 padR20" style="padding-bottom: 30px;">
+                <table align="left" width="300" style="width: 300px;" border="0" cellpadding="0" cellspacing="0"
+                 class="w100pct">
+                 <tr>
+                  <td align="center">
+                   <a universal="false" clicktracking="off" target="_blank"><img width="300" height="298"
+                     style="width: 300px; height: 298px; border: 0; display: block;" class="content-img"
+                     src="https://images.scalero.io/email_assets/759/M7A3N1MGIFOP9A5G7X0ZS4B2DFDYDY9096UPP7LZS3S25DL9MSKI54O3UMLLS4ZN.png"
+                     alt="Image"></a>
+                  </td>
+                 </tr>
+                 <tr>
+                  <td align="center"
+                   style="font-family: 'Graphik', Helvetica, Arial, sans-serif !important; font-size:16px; line-height:20px; color: #1E1E1E; font-weight:400;padding-bottom: 7px;">
+                   <br class="desktop">
+                   Catena Zapata's average rating
+                  </td>
+                 </tr>
+                 <tr>
+                  <td align="center"
+                   style="font-family: 'Graphik', Helvetica, Arial, sans-serif !important; font-size:48px; line-height:56px; color: #1E1E1E; font-weight:500; padding-bottom: 10px;">
+                  4.5
+                  </td>
+                 </tr>
+                
+               
+                </table>
+               </td>
+              </tr>
+             </table>
+            </td>
+           </tr>
+           <!-- end of row 2-->
+
+          </table>
+         </td>
+        </tr>
+        <!--END OF SECTION 2-->
+
+     
+        <!---SECTION 4-->
+        <tr>
+         <td align="center" class="padL10 padR10" style="padding-bottom: 20px;">
+          <table width="640" style="width: 640px;" cellpadding="0" cellspacing="0" border="0" align="center"
+           class="w100pct">
+
+           <tr>
+            <td align="center">
+             <a universal="false" clicktracking="off" href="https://www.vivino.com/articles/eoy_roundup_2020?change_ship_to_country_code=gb" target="_blank"><img width="250"
+               style="width: 250px; border: 0; display: block;" class="w85pct"
+               src="https://images.scalero.io/email_assets/759/D9KELJEAGYKKDR2N2KW400249PTQA3H96AOV6BBFRUZAZHXGK9XZ954BCBBLOGB8.png"
+               alt="Bottles"></a>
+            </td>
+           </tr>
+           <tr>
+            <td bgcolor="#F8F3F0" align="center">
+             <a universal="false" clicktracking="off" href="https://www.vivino.com/articles/eoy_roundup_2020?change_ship_to_country_code=gb" target="_blank"><img width="250"
+               style="width: 250px; border: 0; display: block;" class="w85pct"
+               src="https://images.scalero.io/email_assets/759/PENWLU9ZEL6T4M95ZPZE6QQK39HYDP97KVJQG8BPLI5X2383J7N3ORI8UZ53NNOM.png"
+               alt="Bottles"></a>
+            </td>
+           </tr>
+           <tr>
+            <td align="center" bgcolor="#F8F3F0" class="padL20 padR20" style="padding-top: 10px; padding-bottom: 40px;">
+             <table width="450" style="width: 450px;" cellpadding="0" cellspacing="0" border="0" align="center"
+              class="w100pct">
+         
+               
+
+                
+
+
+              <tr>
+               <td align="center" class="padB30"
+                style="font-family: 'Graphik', Helvetica, Arial, sans-serif !important;font-size:20px;color:#1e1e1e;line-height:32px;font-weight:900; padding: 0px 0px 10px 0px;">
+              Thank you for being a part of our community!
+               </td>
+              </tr>
+              <tr>
+               <td align="center">
+              
+               </td>
+              </tr>
+
+
+             </table>
+            </td>
+           </tr>
+          </table>
+         </td>
+        </tr>
+        <!--END OF SECTION 4-->
+
+        
+
+        
+        <!--END OF CONTENT-->
+
+       </table>
+      </td>
+     </tr>
+     <!-- END OF BODY -->
+
+
+     <!--FOOTER-->
+     <tr>
+      <td align="center" bgcolor="#FAFAFA" style="padding:20px 0px 20px 0px;">
+
+       <table width="100%" border="0" cellspacing="0" cellpadding="0">
+
+        <tr>
+         <td align="center" class="center" height="40" style="font-family: 'Graphik', Helvetica, Arial, sans-serif !important;
+          font-size:15px; color:#737373; font-weight:300;line-height:20px; -webkit-text-size-adjust:none; padding:0px 0px 10px 0px;">
+          <a href="https://www.facebook.com/vivino/" target="_blank" style="text-decoration:none; color:#5e5e5e;"><img
+            style="border:none;" src="https://images.vivino.com/emails/simon/logos/facebook_logo.png" alt="Facebook"
+            width="20" height="20">
+          </a>
+          &nbsp;&nbsp;&nbsp;&nbsp;
+          <a href="https://www.twitter.com/vivino/" target="_blank" style="text-decoration:none; color:#5e5e5e;"><img
+            style="border:none;" src="https://images.vivino.com/emails/simon/logos/twitter_logo.png" alt="Twitter"
+            width="18" height="18">
+          </a>
+         </td>
+        </tr>
+
+        <tr>
+         <td align="center" class="fallback-font"
+          style="font-family: 'Graphik', Helvetica, Arial, sans-serif !important;
+          font-size:12px; color:#565656; line-height:16px; -webkit-text-size-adjust:none; padding:0px 30px 20px 30px; text-transform:none !important; font-weight:normal !important;">
+          <a class="fallback-font link" style="color:#565656;"
+           href="https://www.vivino.com/notification_settings/unsubscribe?access_token={{ contact.notifications_token }}&user_id={{ contact.user_id }}&from=newsletters">Unsubscribe</a> from Vivino News
+          <br><br>
+          
+          <span class="appleLink">
+           <a href="#" class="fallback-font" style="text-decoration:none;color:#565656;">
+          100 Montgomery, Suite 2000, San Francisco, CA 94104
+           </a></span>
+         </td>
+        </tr>
+
+       </table>
+      </td>
+     </tr>
+     <!-- END OF FOOTER-->
+
+
+    </table>
+   </td>
+  </tr>
+ </table>
+
+ <!-- VIVINO UNSUBSCRIBE LINK -->
+ <a href="<%asm_group_unsubscribe_raw_url%>"></a>
+
+</body>
+
+</html>
